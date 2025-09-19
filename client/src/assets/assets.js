@@ -123,7 +123,7 @@ export const dummyCarData = [
         "transmission": "Semi-Automatic",
         "pricePerDay": 2000,
         "location": "Delhi",
-        "description": "This is family suv produced by toyota. The Innova made it's debut in 2008.",
+        "description": "This is family suv produced by toyota. The Innova made it's debut in 2008. A very confortable and family friendly car with great mileage.",
         "isAvaliable": true,
         "createdAt": "2025-04-16T07:26:56.215Z",
     },

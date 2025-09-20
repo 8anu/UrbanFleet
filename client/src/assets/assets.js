@@ -189,7 +189,7 @@ export const dummyMyBookingsData = [
         "pickupDate": "2025-06-13T00:00:00.000Z",
         "returnDate": "2025-06-14T00:00:00.000Z",
         "status": "confirmed",
-        "price": 1600,
+        "price": 2000,
         "createdAt": "2025-06-10T12:57:48.244Z",
     },
     {
@@ -200,7 +200,7 @@ export const dummyMyBookingsData = [
         "pickupDate": "2025-06-12T00:00:00.000Z",
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "pending",
-        "price": 1750,
+        "price": 1800,
         "createdAt": "2025-06-10T12:57:25.613Z",
     },
     {
@@ -211,7 +211,7 @@ export const dummyMyBookingsData = [
         "pickupDate": "2025-06-11T00:00:00.000Z",
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "pending",
-        "price": 2100,
+        "price": 2800,
         "createdAt": "2025-06-10T09:55:06.379Z",
     },
     {
@@ -222,7 +222,7 @@ export const dummyMyBookingsData = [
         "pickupDate": "2025-06-11T00:00:00.000Z",
         "returnDate": "2025-06-12T00:00:00.000Z",
         "status": "confirmed",
-        "price": 1675,
+        "price": 1600,
         "createdAt": "2025-06-10T09:44:25.410Z",
     }
 ]

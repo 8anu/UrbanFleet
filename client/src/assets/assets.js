@@ -103,7 +103,7 @@ export const ownerMenuLinks = [
 
 export const dummyUserData = {
   "_id": "6847f7cab3d8daecdb517095",
-  "name": "hemant",
+  "name": "Hemant",
   "email": "hemant@example.com",
   "role": "owner",
   "image": user_profile,
@@ -236,5 +236,5 @@ export const dummyDashboardData = {
         dummyMyBookingsData[0],
         dummyMyBookingsData[1]
     ],
-    "monthlyRevenue": 840
+    "monthlyRevenue": 8000
 }
